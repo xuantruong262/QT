@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/ImageViewer.qml</file>
+        <file>qml/components/Toolbar.qml</file>
+        <file>qml/pages/EditorPage.qml</file>
+        <file>qml/pages/ImageProc.qml</file>
+    </qresource>
+</RCC>
